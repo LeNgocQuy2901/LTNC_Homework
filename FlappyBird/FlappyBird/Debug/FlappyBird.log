@@ -1,7 +1,0 @@
-﻿  BaseObject.cpp
-  CommonFunc.cpp
-  main.cpp
-  PlayerObject.cpp
-  Generating Code...
-C:\Users\ADMIN\OneDrive\Documents\c++\LTNC\FlappyBird\FlappyBird\PlayerObject.cpp(57,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  FlappyBird.vcxproj -> C:\Users\ADMIN\OneDrive\Documents\c++\LTNC\FlappyBird\Debug\floaty bird.exe
